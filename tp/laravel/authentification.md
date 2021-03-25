@@ -150,7 +150,7 @@ Le nouveau système de template est très très sympa, il permet de découper so
 
 ::: tip Hey toi lecteur ! Stop !
 
-L'organisation est tout aussi important que le code, tu peux copier coller du code entre tout t'es templates oui… Mais sache que c'est pas efficace, que tu perds du temps et que si on te demande un modification **tu perdras du temps** !
+L'organisation est tout aussi important que le code, tu peux copier coller du code entre tous tes templates oui… Mais sache que c'est pas efficace, que tu perds du temps et que si on te demande une modification **tu perdras du temps** !
 
 Prendre du temps pour utiliser le système de layout tels proposé par Laravel est un vrai gain de temps ! Le toi du futur te remercies d'avance.
 
